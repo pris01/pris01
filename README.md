@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pris01&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pris01&" alt="pris01" />
+
  
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/72185317/177186178-6f9df25d-d2e5-4de4-aa86-eeaa26e8e59c.svg)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
